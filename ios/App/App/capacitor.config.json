@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.testkeystore",
+  "appName": "test-key-store",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
